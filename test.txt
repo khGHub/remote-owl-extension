@@ -1,0 +1,1 @@
+There are many available algorithms for plagiarism detection in natural languages.

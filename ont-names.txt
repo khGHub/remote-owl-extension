@@ -1,0 +1,94 @@
+WN	Word Net
+AAO	Amphibian Gross Anatomy
+APO	Yeast phenotypes
+ATO	Amphibian Taxonomy
+BFO	Basic Formal Ontology
+BS	Biosapiens Annotations
+BSPO	Spatial Reference Ontology
+BTO	BRENDA tissue / enzyme source
+CARO	Common Anatomy Reference Ontology
+CCO	Cell Cycle Ontology
+CHEBI	Chemical Entities of Biological Interest
+CL	Cell Type
+CMPO	Cell Microscopy Phenotype Ontology
+DDANAT	Dictyostelium discoideum Anatomy
+DOID	Human Disease
+DPO	Drosophila Phenotype Ontology
+ECO	Evidence Codes
+EDAM	EMBRACE Data and Methods
+EFO	Experimental Factor Ontology
+EHDA	Human Developmental Anatomy, timed version
+EMAP	Mouse Gross Anatomy and Development, timed
+EMAPA	Mouse Gross Anatomy and Development, abstract
+ENA	European Nucleotide Archive Submission Ontology
+ENVO	Environmental Ontology
+EO	Plant Environmental Conditions
+EV	eVOC (Expressed Sequence Annotation for Humans)
+FAO	Fungal Gross Anatomy
+FBbi	Biological Imaging Methods
+FBbt	Drosophila Gross Anatomy
+FBcv	Flybase Controlled Vocabulary
+FBdv	Drosophila Development
+FBsp	Fly taxonomy
+FIX	Physico-Chemical Methods and Properties
+FMA	Foundational Model of Anatomy Ontology
+FYPO	Fission Yeast Phenotype Ontology
+GAZ	Gezetteer ontology
+GO	Gene Ontology
+GRO	Cereal Plant Development
+HAO	Hymenoptera Anatomy Ontology
+HOM	Homology Ontology
+HP	Human phenotype ontology
+IDO	Infectious Disease Ontology
+IEV	Event (INOH)
+IMR	Molecule Role (INOH)
+LSM	Leukocyte Surface Markers
+MA	Mouse Adult Gross Anatomy
+MAT	Minimal Information About Anatomy ontology
+MFO	Medaka Fish Anatomy and Development
+MI	Molecular Interaction (PSI MI 2.5)
+MIAA	Minimal Information About Anatomy ontology
+MIRO	Mosquito Insecticide Resistance
+MOD	Protein Modifications (PSI-MOD)
+MP	Mammalian Phenotype
+MPATH	Mouse Pathology
+MS	PSI Mass Spectrometry Ontology
+NEWT	NEWT UniProt Taxonomy Database
+NPO	NanoParticle Ontology
+OBA	Ontology of bio-attributes
+OBO_REL	OBO Relationship Types
+OPL	Ontology of Parasite Life Cycle
+Orphanet	Orphanet
+PAR	Protein Affinity Reagents
+PATO	Phenotypic qualities (properties)
+PM	Phenotypic manifestation (genetic context)
+PO	Plant Ontology (Structure, Growth and Developmental Stage)
+PRIDE	PRIDE Controlled Vocabulary
+PRO	Protein Ontology
+PW	Pathway Ontology
+REX	Physico-Chemical Process
+RO	Multiple Alignment
+SBO	Systems Biology Ontology
+SEP	Separation Methods
+SO	Sequence Types and Features
+SPD	Spider Comparative Biology Ontology
+SYMP	Symptom Ontology
+TADS	Tick Gross Anatomy
+TAIR	Arabidopsis Development
+TAO	Teleost Anatomy and Development Ontology
+TAXRANK	Taxonomic rank vocabulary
+TGMA	Mosquito Gross Anatomy
+TO	Cereal Plant Trait
+TRANS	Pathogen transmission
+TTO	Teleost taxonomy
+UBERON	Uber anatomy ontology
+UO	Unit Ontology
+VariO	Variation Ontology
+WBPhenotype	C. elegans phenotype
+WBbt	C. elegans gross anatomy
+WBls	C. elegans Development
+XAO	Xenopus anatomy and development
+ZDB	Zebrafish Anatomy and Development
+ZEA	Maize Gross Anatomy
+ZFA	Zebrafish Anatomy and Development
+qcML	Quality Control Ontology
